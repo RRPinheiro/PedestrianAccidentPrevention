@@ -30,12 +30,12 @@ def move_random_files(source_image_folder, source_text_folder, destination_image
 # Example usage
 if __name__ == "__main__":
     # Source folders containing images and corresponding text files
-    source_image_folder = r"C:/Users/ricar/OneDrive - UTAD/Documentos/uni/3o ano/2semestre/lab projeto/nuscenes-data-manipulation/data/images/treino"
-    source_text_folder = r"C:/Users/ricar/OneDrive - UTAD/Documentos/uni/3o ano/2semestre/lab projeto/nuscenes-data-manipulation/yolo_annotations"
+    source_image_folder = r""
+    source_text_folder = r""
 
     # Destination folders to move the selected files
-    destination_image_folder = "C:/Users/ricar/OneDrive - UTAD/Documentos/uni/3o ano/2semestre/lab projeto/nuscenes-data-manipulation/data/images/val"
-    destination_text_folder = "C:/Users/ricar/OneDrive - UTAD/Documentos/uni/3o ano/2semestre/lab projeto/nuscenes-data-manipulation/data/labels/val"
+    destination_image_folder = ""
+    destination_text_folder = ""
 
     # Number of random files to select
     num_files = 10000

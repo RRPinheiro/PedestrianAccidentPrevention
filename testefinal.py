@@ -25,7 +25,7 @@ cv2.namedWindow("YOLOv8 Tracking", cv2.WINDOW_AUTOSIZE)
 cv2.resizeWindow("YOLOv8 Tracking", window_width, window_height)
 
 # Open the video file
-video_path = r"C:\Users\ricar\OneDrive - UTAD\Documentos\uni\3o ano\2semestre\lab projeto\nuscenes-data-manipulation\videosTelemovel3\20240404_171146.mp4"
+video_path = r""
 cap = cv2.VideoCapture(video_path)
 
 # Loop through the video frames

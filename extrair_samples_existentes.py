@@ -29,7 +29,7 @@ if __name__ == "__main__":
     sample_data_file = "sample_data.json"
 
     # Folder containing image files
-    image_folder = r"C:\Users\ricar\Downloads\nuimages-v1.0-all-samples"
+    image_folder = r""
 
     # Check file existence and write to a new file
     check_file_existence(sample_data_file, image_folder)
